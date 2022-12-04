@@ -97,6 +97,7 @@ button {
     display: flex;
     font-weight: bold;
     letter-spacing: 0.1px;
+    cursor: pointer;
 }
 
 .cart {
